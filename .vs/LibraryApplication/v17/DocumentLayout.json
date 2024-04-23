@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|c:\\users\\user\\source\\repos\\libraryapplication\\objects\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|solutionrelative:objects\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD9DEC-B1D0-49A3-BEB8-58E701BCD1A1}|..\\BiblioteketApplication\\BiblioteketApplication.csproj|c:\\users\\user\\source\\repos\\biblioteketapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD9DEC-B1D0-49A3-BEB8-58E701BCD1A1}|..\\BiblioteketApplication\\BiblioteketApplication.csproj|c:\\users\\user\\source\\repos\\biblioteketapplication\\biblioteketapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|c:\\users\\user\\source\\repos\\libraryapplication\\libraryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|solutionrelative:libraryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|c:\\users\\user\\source\\repos\\libraryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|c:\\users\\user\\source\\repos\\libraryapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81EF50D-E72F-43BC-8E49-4E76315038D9}|LibraryApplication.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Objects\\Book.cs",
+              "RelativeDocumentMoniker": "Objects\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Objects\\Book.cs",
+              "RelativeToolTip": "Objects\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:33:13.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BiblioteketApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BiblioteketApplication\\BiblioteketApplication.csproj",
+              "RelativeDocumentMoniker": "..\\BiblioteketApplication\\BiblioteketApplication.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BiblioteketApplication\\BiblioteketApplication.csproj",
+              "RelativeToolTip": "..\\BiblioteketApplication\\BiblioteketApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T13:01:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BiblioteketApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BiblioteketApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BiblioteketApplication\\Program.cs",
+              "RelativeToolTip": "..\\BiblioteketApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:40:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApplication\\LibraryApplication.csproj",
+              "RelativeDocumentMoniker": "LibraryApplication.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApplication\\LibraryApplication.csproj",
+              "RelativeToolTip": "LibraryApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T09:57:43.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T09:44:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:36:26.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
