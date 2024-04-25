@@ -1,0 +1,32 @@
+﻿
+header {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-left: auto;
+}
+
+.navbar-nav .nav-item a.nav-link:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: skyblue;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin-bottom: 0px;
+}
+
+
+

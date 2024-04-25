@@ -6,7 +6,7 @@
         public string Name { get; set; }
         public  string Author { get; set; }
         public string Genre { get; set; }
-        public int Page   { get; set; }
+        public int Page  { get; set; }
         public int Qauntity { get; set; }
 
         public Book(int id, string name, string author, string genre, int page, int qauntity)
@@ -18,7 +18,8 @@
             Page = page;
             Qauntity = qauntity;
         }
+      
 
-        
+
     }
 }

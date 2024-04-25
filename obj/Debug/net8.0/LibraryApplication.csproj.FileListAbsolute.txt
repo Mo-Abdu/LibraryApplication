@@ -28,3 +28,34 @@ C:\Users\User\source\repos\LibraryApplication\obj\Debug\net8.0\refint\LibraryApp
 C:\Users\User\source\repos\LibraryApplication\obj\Debug\net8.0\LibraryApplication.pdb
 C:\Users\User\source\repos\LibraryApplication\obj\Debug\net8.0\LibraryApplication.genruntimeconfig.cache
 C:\Users\User\source\repos\LibraryApplication\obj\Debug\net8.0\ref\LibraryApplication.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.staticwebassets.runtime.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.exe
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.deps.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.runtimeconfig.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\bin\Debug\net8.0\LibraryApplication.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.AssemblyInfoInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.AssemblyInfo.cs
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.RazorAssemblyInfo.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.RazorAssemblyInfo.cs
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.sourcelink.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets\msbuild.LibraryApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryApplication.props
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryApplication.props
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryApplication.props
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\scopedcss\bundle\LibraryApplication.styles.css
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\scopedcss\projectbundle\LibraryApplication.bundle.scp.css
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\refint\LibraryApplication.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\LibraryApplication.genruntimeconfig.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\LibraryApplication\obj\Debug\net8.0\ref\LibraryApplication.dll
